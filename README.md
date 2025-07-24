@@ -8,6 +8,7 @@ Sur ce profil, tu trouveras des projets réalisés en :
 - JavaScript : ajout d’interactivité sur les sites
 - Ruby : développement d’applications
 - Python : un nouveau langage que j’apprends en ce moment
+- React : une nouvelle manière d'utiliser JavaScript
 
 Je travaille régulièrement sur de nouveaux projets pour m’améliorer et explorer de nouvelles technos. Chaque repo est une étape de mon apprentissage.
 
