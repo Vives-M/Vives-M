@@ -1,24 +1,26 @@
-👋 Hello, moi c’est @Vives-M !
+👋 Salut, moi c’est @Vives-M !
 
-Développeuse web junior en pleine montée en compétences, j’ai commencé mon parcours avec le bootcamp du Wagon (Rennes), puis j’ai poursuivi avec des formations en ligne (OpenClassrooms) et des projets personnels.
+Après une reconversion professionnelle, j’ai suivi le bootcamp Le Wagon (Rennes) pour me lancer dans le développement web. Depuis, je continue à monter en compétences à travers des formations en ligne (OpenClassrooms), des projets personnels, et maintenant un cursus DevOps en alternance.
 
-Sur ce profil, tu trouveras des projets réalisés en :
+💻 Ce que tu trouveras ici
 
-- HTML / CSS : construction de pages web et design visuel 
-- JavaScript : ajout d’interactivité sur les sites
-- Ruby : développement d’applications
-- Python : un nouveau langage que j’apprends en ce moment
-- React : une nouvelle manière d'utiliser JavaScript
+Des projets réalisés avec :
 
-Je travaille régulièrement sur de nouveaux projets pour m’améliorer et explorer de nouvelles technos. Chaque repo est une étape de mon apprentissage.
+- HTML / CSS : création d'interfaces web et design responsive
+- JavaScript : ajout d’interactivité aux sites web
+- React : une approche moderne du front-end avec JavaScript
+- Ruby : développement back-end orienté objets
+- Python : un langage que j’explore actuellement pour élargir mes compétences
 
-🚀 Objectifs
+Chaque repo ici reflète une étape de mon apprentissage ou un défi technique que je me suis lancée.
 
-- Consolider les bases du développement web
-- Comprendre la logique de fonctionnement des langages avant d'apprendre à utiliser des frameworks
-- Apprendre Python pour élargir mes compétences
-- M’orienter progressivement vers du fullstack
-- Écrire un code plus propre, mieux structuré et documenté
+🚀 Mes objectifs
+
+- Consolider mes bases en développement web
+- Comprendre la logique des langages avant d’approfondir les frameworks
+- Approfondir Python et les pratiques DevOps
+- Évoluer vers un profil fullstack orienté DevOps
+- Écrire un code propre, structuré et bien documenté
 
 📫 N’hésite pas à jeter un œil à mes projets ou à me contacter pour échanger !
 
