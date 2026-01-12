@@ -12,7 +12,7 @@ Des projets réalisés avec :
 - Ruby : développement back-end orienté objets
 - Python : un langage que j’explore actuellement pour élargir mes compétences
 
-Chaque repo ici reflète une étape de mon apprentissage ou un défi technique que je me suis lancée.
+Chaque repo ici reflète une étape de mon apprentissage ou un défi technique que je me suis lancé.
 
 🚀 Mes objectifs
 
