@@ -1,6 +1,6 @@
 👋 Salut, moi c’est @Vives-M !
 
-Après une reconversion professionnelle, j’ai suivi le bootcamp Le Wagon (Rennes) pour me lancer dans le développement web. Depuis, je continue à monter en compétences à travers des formations en ligne (OpenClassrooms), des projets personnels, et maintenant un cursus DevOps en alternance.
+Après une reconversion professionnelle, j’ai suivi le bootcamp Le Wagon (Rennes) pour me lancer dans le développement web. Depuis, je continue à monter en compétences à travers des formations en ligne (OpenClassrooms), des projets personnels, et maintenant un cursus DevOps en alternance entre l'ENI et Sekoia.io.
 
 💻 Ce que tu trouveras ici
 
